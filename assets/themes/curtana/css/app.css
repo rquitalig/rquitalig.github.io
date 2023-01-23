@@ -1632,7 +1632,7 @@ body:hover .latest {
   --text-color-s: 30%;
   --text-color-l: 10%;
   --text-color-hsl: var(--text-color-h), var(--text-color-s), var(--text-color-l);
-  --text-color: hsl(var(--text-color-hsl));
+  --text-color: black;
   --text-color-0: hsla(var(--text-color-hsl), 0);
   --text-color-3: hsla(var(--text-color-hsl), .03);
   --text-color-5: hsla(var(--text-color-hsl), .05);
@@ -1757,6 +1757,8 @@ body:hover .latest {
   margin-left: calc(var(--space-header) * -1);
   margin-right: calc(var(--space-header) * -1);
 }
+
+
 
 body {
   background-image: linear-gradient(to bottom, #ffdbaa, white);
