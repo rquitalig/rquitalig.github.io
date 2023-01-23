@@ -1672,7 +1672,7 @@ body:hover .latest {
   --bg-color-s: 30%;
   --bg-color-l: 100%;
   --bg-color-hsl: var(--bg-color-h), var(--bg-color-s), var(--bg-color-l);
-  --bg-color: #ffcc66;
+  --bg-color:  #ffdbaa;
   --bg-color-0: hsla(var(--bg-color-hsl), 0);
   --bg-color-3: hsla(var(--bg-color-hsl), .03);
   --bg-color-5: hsla(var(--bg-color-hsl), .05);
