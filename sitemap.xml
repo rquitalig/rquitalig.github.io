@@ -24,7 +24,7 @@
       <url>
         <loc>http://0.0.0.0:4321/</loc>
         
-          <lastmod>2023-01-21</lastmod>
+          <lastmod>2023-01-22</lastmod>
         
       </url>
     
@@ -33,7 +33,16 @@
       <url>
         <loc>http://0.0.0.0:4321/news/</loc>
         
-          <lastmod>2022-12-20</lastmod>
+          <lastmod>2023-01-22</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/work/</loc>
+        
+          <lastmod>2023-01-22</lastmod>
         
       </url>
     
@@ -44,7 +53,7 @@
       <url>
         <loc>http://0.0.0.0:4321/welcome.html</loc>
         
-          <lastmod>2023-01-21</lastmod>
+          <lastmod>2023-01-22</lastmod>
         
       </url>
     
