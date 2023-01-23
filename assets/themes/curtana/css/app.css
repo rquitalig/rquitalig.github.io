@@ -1710,6 +1710,18 @@ body:hover .latest {
   --code-color-dark: hsl(var(--code-color-h), var(--code-color-s), calc(var(--code-color-l) * .9));
 }
 
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: none;
+     -moz-text-size-adjust: none;
+          text-size-adjust: none;
+  text-rendering: optimizelegibility;
+  image-rendering: optimizequality;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--bg-color);
+}
+
 .navigation {
   padding-top: var(--nav-padding);
   padding-bottom: var(--nav-padding);
