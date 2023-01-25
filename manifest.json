@@ -3,8 +3,8 @@
   "short_name": "RQ",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#ff00b4",
-  "background_color": "#fff",
+  "theme_color": "#ffdbaa",
+  "background_color": "#ffdbaa",
   "icons": [
     {
       "src": "/favicon.png",
